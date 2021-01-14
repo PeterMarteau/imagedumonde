@@ -11,7 +11,7 @@ https://www.sublimetext.com/
 Then download the snippets dir. And unzip it in your Packages dir. Here's some help for finding that: https://forum.sublimetext.com/t/how-to-find-snippet-location/34691
 If you need help with that, please just ask on twitter @petermarteau
 
-###Usage
+### Usage
 General usage is you type the unabbreviated form and hit tab, i.e.
 com<tab> results in <expan orig="9">com</expan>
   
