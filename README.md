@@ -13,7 +13,9 @@ If you need help with that, please just ask on twitter @petermarteau
 
 ### Usage
 General usage is you type the unabbreviated form and hit tab, i.e.
-"com<tab>" results in "<expan orig="9">com</expan>"
+    com<tab>
+results in 
+    <expan orig="9">com</expan>"
   
 I'll make a list later, but the filenames are pretty selfexplanatory
 
