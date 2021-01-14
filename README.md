@@ -1,8 +1,7 @@
 # imagedumonde
 
 ## Snippets
-In the folder sninppets you find snippets for the Sublime Text Editor. 
-When included you can just type "com", hit tab and end up with "<expan orig="9">com</expan>"
+In the folder sninppets you find snippets easier and faster including of abbreviations for the Sublime Text Editor. 
 
 ### Download the editor
 You find the editor here:
