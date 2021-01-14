@@ -19,6 +19,9 @@ results in
   
 I'll make a list later, but the filenames are pretty selfexplanatory
 
+### Need/Want to help
+If you want another abbreviation covered, feel free to ask. If you've done some yourself and want to share, hit me up and i'll add them
+
 ### Snippets in Sublime
 If you want to do something like these yourself for other projects, here are the docs:
 https://docs.sublimetext.io/guide/extensibility/snippets.html#snippets-file-format
