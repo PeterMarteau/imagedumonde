@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="1000"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+    <defs>
+        <path id="inner-orbit" d="M357.5,500a142.5,142.5 0 1,1 285,0a142.5,142.5 0 1,0 -285,0"/>
+        <path id="sol-center-upper" d="M460,200a40,40 0 1,1 80,0a40,40 0 1,0 -80,0"/>
+        <path id="sol-right-middle" d="M760,500a40,40 0 1,1 80,0a40,40 0 1,0 -80,0"/>
+        <path id="lune-left-middle" d="M160,500a40,40 0 1,1 80,0a40,40 0 1,0 -80,0"/>
+    </defs>
+    <text x="500" y="600"
+          text-anchor="middle"
+          stroke="black"
+          stroke-width="1px"
+    > Eclipce de Soleil
+    </text>
+    <text dx="207.5" dy="-3">
+        <textPath alignment-baseline="top" xlink:href="#inner-orbit">
+            lu ne
+        </textPath>
+    </text>
+
+
+
+    <title>Diagram fol. 173v, col B</title>
+    <!-- Inner orbit -->
+    <circle cx="500" cy="500" r="142.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="500" cy="500" r="157.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+
+    <!-- /Inner orbit -->
+
+    <!-- Outer orbit -->
+    <circle cx="500" cy="500" r="292.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="500" cy="500" r="307.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <!-- /Outer orbit -->
+
+    <!-- Earth -->
+    <circle cx="500" cy="500" r="40"
+            stroke="red"
+            stroke-width="15"
+            fill="none"
+    />
+    <circle cx="500" cy="500" r="32.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="500" cy="500" r="47.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <text x="500" y="500"
+          text-anchor="middle"
+          stroke="black"
+          stroke-width="1px"
+    > terre
+    </text>
+    <!-- /Earth -->
+
+    <!-- Lune center upper -->
+    <circle cx="500" cy="350" r="40"
+            stroke="red"
+            stroke-width="15"
+            fill="none"
+    />
+    <circle cx="500" cy="350" r="32.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="500" cy="350" r="47.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <!-- /Lune center upper -->
+
+    <!-- Sol center upper -->
+    <circle cx="500" cy="200" r="40"
+            stroke="red"
+            stroke-width="15"
+            fill="none"
+    />
+    <circle cx="500" cy="200" r="32.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="500" cy="200" r="47.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <!-- Sol center upper -->
+
+    <!-- Sol right middle -->
+    <circle cx="800" cy="500" r="40"
+            stroke="red"
+            stroke-width="15"
+            fill="none"
+    />
+    <circle cx="800" cy="500" r="32.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="800" cy="500" r="47.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <!-- /Sol right middle -->
+
+    <!-- Lune left middle -->
+    <circle cx="200" cy="500" r="40"
+            stroke="red"
+            stroke-width="15"
+            fill="none"
+    />
+    <circle cx="200" cy="500" r="32.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <circle cx="200" cy="500" r="47.5"
+            stroke="black"
+            stroke-width="2"
+            fill="none"
+    />
+    <!-- /Lune left middle -->
+    <text dx="52.5" dy="3">
+        <textPath alignment-baseline="top" xlink:href="#sol-center-upper">
+            sol
+        </textPath>
+    </text>
+    <text dx="0" dy="3">
+        <textPath alignment-baseline="top" xlink:href="#lune-left-middle">
+            lune
+        </textPath>
+    </text>
+</svg>
