@@ -1,17 +1,17 @@
 # imagedumonde
 
-##Snippets##
+## Snippets
 In the folder sninppets you find snippets for the Sublime Text Editor. 
 When included you can just type "com", hit tab and end up with "<expan orig="9">com</expan>"
 
-###Download the editor###
+### Download the editor
 You find the editor here:
 https://www.sublimetext.com/
 
-###Downloading and installing snippets###
+### Downloading and installing snippets
 Then download the snippets dir. And unzip it in your Packages dir. Here's some help for finding that: https://forum.sublimetext.com/t/how-to-find-snippet-location/34691
 If you need help with that, please just ask on twitter @petermarteau
 
-###Snippets in Sublime###
+### Snippets in Sublime
 If you want to do something like these yourself for other projects, here are the docs:
 https://docs.sublimetext.io/guide/extensibility/snippets.html#snippets-file-format
